@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="SmSO5wxENjG3BnXdwBRb" name="Страница-1">
+    <mxGraphModel dx="1414" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vPPXfiodZHN8iR6UJSk--5" edge="1" parent="1" source="vPPXfiodZHN8iR6UJSk--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vPPXfiodZHN8iR6UJSk--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPPXfiodZHN8iR6UJSk--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Начало" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vPPXfiodZHN8iR6UJSk--2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Конец" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="vPPXfiodZHN8iR6UJSk--6" edge="1" parent="1" source="vPPXfiodZHN8iR6UJSk--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vPPXfiodZHN8iR6UJSk--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPPXfiodZHN8iR6UJSk--3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="x,y,z" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vPPXfiodZHN8iR6UJSk--9" edge="1" parent="1" source="vPPXfiodZHN8iR6UJSk--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vPPXfiodZHN8iR6UJSk--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPPXfiodZHN8iR6UJSk--4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre style=&quot;font-family: &amp;quot;Cascadia Mono&amp;quot;; font-size: 9pt;&quot;&gt;c = pow(2, pow(y, x)) + pow(pow(3, x), y) - (chislitel / znamenatel)&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="490" x="169" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="vPPXfiodZHN8iR6UJSk--10" edge="1" parent="1" source="vPPXfiodZHN8iR6UJSk--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vPPXfiodZHN8iR6UJSk--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPPXfiodZHN8iR6UJSk--8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="C" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="305" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
